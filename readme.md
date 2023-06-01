@@ -9,5 +9,5 @@ Run this on a cronjob. The more frequently it runs, the better.
 
 ## Dependencies
 - Python
-- Imported Python Packes
+- Imported Python Packages
 - Transmission Remote CLI
