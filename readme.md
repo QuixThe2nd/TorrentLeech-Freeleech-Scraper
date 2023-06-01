@@ -1,5 +1,5 @@
 # TorrentLeech Freeleech Scraper
-This script scraped TorrentLeech and automatically downloads and installs all freeleech torrents.
+This script scrapes TorrentLeech and automatically downloads and installs all freeleech torrents.
 
 ## Why?
 Freeleech torrents are great for improving ratios.
